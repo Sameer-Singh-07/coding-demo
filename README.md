@@ -27,7 +27,7 @@ This repository documents my journey of learning **C Programming** from scratch.
 
 | File           | Description                |
 | -------------- | -------------------------- |
-| sameer.c        | My first C program         |
+| sameer.c       | My first C program         |
 
 
 ---
