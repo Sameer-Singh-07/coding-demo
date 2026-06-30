@@ -1,82 +1,137 @@
-# coding-demo
-Author - SAMEER SINGH
+# Coding Demo
+
+**Author:** Sameer Singh
+
 # 🚀 Learning C Programming
 
 Hi! I'm **Sameer Singh**.
 
-This repository documents my journey of learning **C Programming** from scratch. My goal is to build a strong programming foundation before moving on to **C++, Data Structures & Algorithms, and AI/ML**.
+Welcome to my C Programming learning repository. This repository documents my daily progress as I learn C programming from scratch. My goal is to build a strong programming foundation before moving on to **C++, Data Structures & Algorithms, and Artificial Intelligence/Machine Learning**.
 
 ---
 
 ## 🎯 Goals
 
-* Learn C programming fundamentals
-* Write clean and readable code
-* Practice solving programming problems
-* Build a strong foundation for DSA
-* Prepare for software development and AI
+- Learn C programming fundamentals
+- Write clean and readable code
+- Practice problem-solving through programming
+- Build a strong foundation for Data Structures & Algorithms
+- Prepare for Software Development and AI/ML
 
 ---
 
 ## 📚 Topics Covered
 
-* ✅ Hello World
-* ✅ SUM
+- ✅ Hello World
+- ✅ Variables
+- ✅ Input & Output (`printf()` and `scanf()`)
+- ✅ Basic Arithmetic Operations
+- ✅ Addition of Two Numbers
+- ✅ Area of Rectangle
+- ✅ Area of Circle
+- ✅ Area of Triangle
+
 ---
 
 ## 📂 Programs
 
-| File           | Description                |
-| -------------- | -------------------------- |
-| sameer.c       | My first C program         |
-| sum.c          | sum program                |
-
+| File | Description |
+|------|-------------|
+| `sameer.c` | Hello World program |
+| `sum.c` | Addition of two numbers |
+| `area_rectangle.c` | Calculate the area of a rectangle |
+| `area_circle.c` | Calculate the area of a circle |
+| `area_triangle.c` | Calculate the area of a triangle |
 
 ---
 
-## 📝 Learning Log
+# 📝 Learning Log
 
-### Day 1
+## 📅 Day 1
 
-* Set up VS Code
-* Installed MinGW Compiler
-* Wrote my first "Hello, World!" program
-* Learned about `main()` and `printf()`
-
-
-## 📅 Day 2 – C Programming Basics
-
-### 📚 What I Learned
-- Variables in C (`int`, `float`, `char`)
-- Functions in C (`main()` and `printf()`, `scanf()`)
-- Taking user input using `scanf()`
-- Displaying output using `printf()`
-- How to write a simple program to add two numbers
+### 📚 Topics Learned
+- Installed Visual Studio Code
+- Installed GCC (MinGW Compiler)
+- Created my first C program
+- Learned the structure of a C program
+- Used `printf()` to display output
 
 ### 💻 Program Built
-- Addition of two numbers (A + B) using user input
+- Hello World
 
 ### 🎯 Key Takeaways
-- Understood how variables store data.
-- Learned the purpose of functions in C.
-- Practiced taking input from the user and displaying the result.
-- Successfully compiled and ran my first user-input program.
+- Understood the basic structure of a C program.
+- Successfully compiled and executed my first program.
 
 ---
 
-## 💻 Tools
+## 📅 Day 2
 
-* VS Code
-* GCC (MinGW)
-* Git
-* GitHub
+### 📚 Topics Learned
+- Variables (`int`, `float`, `char`)
+- Functions (`main()`)
+- Input using `scanf()`
+- Output using `printf()`
+- Arithmetic operations
+- Area calculation formulas
+
+### 💻 Programs Built
+- Addition of Two Numbers
+- Area of Square
+- Area of Circle
+- Area of Triangle
+
+### 🎯 Key Takeaways
+- Learned how variables store data.
+- Practiced taking user input.
+- Performed mathematical calculations using C.
+- Improved confidence in writing and compiling C programs.
+
+---
+
+## 🛠️ Tools Used
+
+- Visual Studio Code
+- GCC (MinGW)
+- Git
+- GitHub
 
 ---
 
 ## 📈 Progress
 
-Current Stage: 🌱 Beginner
+**Current Stage:** 🌱 Beginner
+
+**Programs Completed:** 5
+
+**Current Focus:** Strengthening C Programming Fundamentals
 
 ---
 
-⭐ Thanks for visiting my repository! Every commit represents another step in my programming journey.
+## 📌 Upcoming Topics
+
+- Conditional Statements (`if`, `else`)
+- Loops (`for`, `while`, `do-while`)
+- Switch Statements
+- Functions
+- Arrays
+- Strings
+- Pointers
+- Structures
+- File Handling
+
+---
+
+## 🤝 Connect With Me
+
+- GitHub: https://github.com/Sameer_Singh_07
+
+---
+
+## ⭐ About This Repository
+
+Every commit in this repository represents another step in my programming journey. I will continue updating this repository as I learn new concepts and build more C programs.
+
+If you find this repository helpful, feel free to ⭐ star it!
+
+**Happy Coding! 🚀**
