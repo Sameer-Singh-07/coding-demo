@@ -124,7 +124,7 @@ Welcome to my C Programming learning repository. This repository documents my da
 
 ## 🤝 Connect With Me
 
-- GitHub: https://github.com/Sameer_Singh_07
+- GitHub: https://github.com/Sameer-Singh-07
 
 ---
 
